@@ -26,12 +26,18 @@ function App() {
     <ToastContainer />
     <Slider />
     <Switch>
-    <Route exact path="/2020_Portfolio_Update_into_React/" component={Home} />
+    <Route exact path="/" component={Home} />
     <Route exact path="/certificate" component={Certificate} />
     <Route exact path="/contactus" component={Contactus} />
     <Route exact path="/web" component={WebCard} />
     <Route exact path="/programming" component={Programming} />
     <Route exact path="/programming2" component={Programming2} />
+    <Route exact path="/2020_Portfolio_Update_into_React/" component={Home} />
+    <Route exact path="/2020_Portfolio_Update_into_React/certificate" component={Certificate} />
+    <Route exact path="/2020_Portfolio_Update_into_React/contactus" component={Contactus} />
+    <Route exact path="/2020_Portfolio_Update_into_React/web" component={WebCard} />
+    <Route exact path="/2020_Portfolio_Update_into_React/programming" component={Programming} />
+    <Route exact path="/2020_Portfolio_Update_into_React/programming2" component={Programming2} />
     </Switch>
     <Footer />
     </div>
