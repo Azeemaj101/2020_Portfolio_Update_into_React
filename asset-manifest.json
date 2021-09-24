@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2020_Portfolio_Update_into_React/static/css/main.3f74e934.chunk.css",
-    "main.js": "/2020_Portfolio_Update_into_React/static/js/main.01b792db.chunk.js",
-    "main.js.map": "/2020_Portfolio_Update_into_React/static/js/main.01b792db.chunk.js.map",
+    "main.js": "/2020_Portfolio_Update_into_React/static/js/main.c6e7aa95.chunk.js",
+    "main.js.map": "/2020_Portfolio_Update_into_React/static/js/main.c6e7aa95.chunk.js.map",
     "runtime-main.js": "/2020_Portfolio_Update_into_React/static/js/runtime-main.a153e5c3.js",
     "runtime-main.js.map": "/2020_Portfolio_Update_into_React/static/js/runtime-main.a153e5c3.js.map",
     "static/css/2.d9edcba5.chunk.css": "/2020_Portfolio_Update_into_React/static/css/2.d9edcba5.chunk.css",
@@ -13,13 +13,14 @@
     "index.html": "/2020_Portfolio_Update_into_React/index.html",
     "static/css/2.d9edcba5.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/2.d9edcba5.chunk.css.map",
     "static/css/main.3f74e934.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/main.3f74e934.chunk.css.map",
-    "static/js/2.c096efde.chunk.js.LICENSE.txt": "/2020_Portfolio_Update_into_React/static/js/2.c096efde.chunk.js.LICENSE.txt"
+    "static/js/2.c096efde.chunk.js.LICENSE.txt": "/2020_Portfolio_Update_into_React/static/js/2.c096efde.chunk.js.LICENSE.txt",
+    "static/media/load.b3c9c7aa.mp4": "/2020_Portfolio_Update_into_React/static/media/load.b3c9c7aa.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.a153e5c3.js",
     "static/css/2.d9edcba5.chunk.css",
     "static/js/2.c096efde.chunk.js",
     "static/css/main.3f74e934.chunk.css",
-    "static/js/main.01b792db.chunk.js"
+    "static/js/main.c6e7aa95.chunk.js"
   ]
 }
