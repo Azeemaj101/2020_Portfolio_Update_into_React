@@ -14,7 +14,7 @@ const NavBar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <NavLink exact className="nav-link" activeClassName="text-light" to="/">Home</NavLink>
+          <NavLink exact className="nav-link" activeClassName="text-light" to="2020_Portfolio_Update_into_React/">Home</NavLink>
         </li>
         <li className="nav-item">
           <NavLink exact className="nav-link" activeClassName="text-light" to="/certificate">Certificate</NavLink>
