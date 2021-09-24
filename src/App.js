@@ -16,6 +16,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   useEffect(() => {
+      toast("Welcome!");
       toast("CreatedBy Muhammad Azeem!");
   },[])
   return (
