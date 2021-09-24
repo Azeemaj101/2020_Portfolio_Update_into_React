@@ -13,7 +13,7 @@ const CardCer = (props) => {
     }}
     return (
         <div className="card card_css me-3 mb-3">
-        <img src={process.env.PUBLIC_URL + props.img} className="card-img-top" alt="..." style={{width:"100%", height:"280px"}}/>
+        <img src={process.env.PUBLIC_URL + props.img} className="card-img-top proImg" alt="..."/>
         <div className="card-body">
             <h5 className="card-title">{props.name}</h5>
             {funt(props.link)}
