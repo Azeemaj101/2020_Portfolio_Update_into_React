@@ -23,7 +23,7 @@ const NavBar = () => {
           <NavLink exact className="nav-link dropdown-toggle" activeClassName="text-light" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" to="/d">
             Projects
           </NavLink>
-          <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+          <ul className="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
             <li>
           <NavLink exact className="dropdown-item dropdown_css" to="/2020_Portfolio_Update_into_React/web">Web Projects</NavLink>
            </li>
