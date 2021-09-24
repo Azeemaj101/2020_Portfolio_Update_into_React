@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/2020_Portfolio_Update_into_React/static/css/main.3f74e934.chunk.css",
-    "main.js": "/2020_Portfolio_Update_into_React/static/js/main.5fdecdf6.chunk.js",
-    "main.js.map": "/2020_Portfolio_Update_into_React/static/js/main.5fdecdf6.chunk.js.map",
+    "main.js": "/2020_Portfolio_Update_into_React/static/js/main.39ee059c.chunk.js",
+    "main.js.map": "/2020_Portfolio_Update_into_React/static/js/main.39ee059c.chunk.js.map",
     "runtime-main.js": "/2020_Portfolio_Update_into_React/static/js/runtime-main.a153e5c3.js",
     "runtime-main.js.map": "/2020_Portfolio_Update_into_React/static/js/runtime-main.a153e5c3.js.map",
     "static/css/2.d9edcba5.chunk.css": "/2020_Portfolio_Update_into_React/static/css/2.d9edcba5.chunk.css",
-    "static/js/2.c096efde.chunk.js": "/2020_Portfolio_Update_into_React/static/js/2.c096efde.chunk.js",
-    "static/js/2.c096efde.chunk.js.map": "/2020_Portfolio_Update_into_React/static/js/2.c096efde.chunk.js.map",
+    "static/js/2.e80a6097.chunk.js": "/2020_Portfolio_Update_into_React/static/js/2.e80a6097.chunk.js",
+    "static/js/2.e80a6097.chunk.js.map": "/2020_Portfolio_Update_into_React/static/js/2.e80a6097.chunk.js.map",
     "static/js/3.d6470019.chunk.js": "/2020_Portfolio_Update_into_React/static/js/3.d6470019.chunk.js",
     "static/js/3.d6470019.chunk.js.map": "/2020_Portfolio_Update_into_React/static/js/3.d6470019.chunk.js.map",
     "index.html": "/2020_Portfolio_Update_into_React/index.html",
     "static/css/2.d9edcba5.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/2.d9edcba5.chunk.css.map",
     "static/css/main.3f74e934.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/main.3f74e934.chunk.css.map",
-    "static/js/2.c096efde.chunk.js.LICENSE.txt": "/2020_Portfolio_Update_into_React/static/js/2.c096efde.chunk.js.LICENSE.txt",
+    "static/js/2.e80a6097.chunk.js.LICENSE.txt": "/2020_Portfolio_Update_into_React/static/js/2.e80a6097.chunk.js.LICENSE.txt",
     "static/media/1_1.0a06261c.jpg": "/2020_Portfolio_Update_into_React/static/media/1_1.0a06261c.jpg",
     "static/media/2_1.4389e005.jpeg": "/2020_Portfolio_Update_into_React/static/media/2_1.4389e005.jpeg",
     "static/media/3_1.2ca1932a.jpg": "/2020_Portfolio_Update_into_React/static/media/3_1.2ca1932a.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.a153e5c3.js",
     "static/css/2.d9edcba5.chunk.css",
-    "static/js/2.c096efde.chunk.js",
+    "static/js/2.e80a6097.chunk.js",
     "static/css/main.3f74e934.chunk.css",
-    "static/js/main.5fdecdf6.chunk.js"
+    "static/js/main.39ee059c.chunk.js"
   ]
 }
