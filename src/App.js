@@ -20,8 +20,8 @@ function App() {
   },[])
   return (
     <>
-    {/* <Loader/> */}
-    <div className="he">
+    <Loader/>
+    <div className="hel">
     <NavBar />
     <ToastContainer />
     <Slider />
