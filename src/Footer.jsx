@@ -7,6 +7,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import DescriptionIcon from '@mui/icons-material/Description';
 import Tooltip from '@mui/material/Tooltip';
 import Button from '@mui/material/Button';
+import pic from './images/1_1.jpg';
 
 
 const date = new Date();
@@ -16,7 +17,7 @@ const Footer = () => {
             <div className="d-flex justify-content-center align-items-center flex-column">
                 <div className="d-flex justify-content-center align-items-center mt-3">
                     <div>
-                        <img src={process.env.PUBLIC_URL + 'images/1_1.jpg'} className="rounded-circle footer-img" alt=""/>
+                        <img src={pic} className="rounded-circle footer-img" alt=""/>
                     </div>
                     <div className="footer_content">
                         <p>Muhammad Azeem</p>

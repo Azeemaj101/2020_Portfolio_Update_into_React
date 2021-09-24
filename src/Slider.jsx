@@ -1,5 +1,7 @@
 import React from 'react'
 import Button from '@mui/material/Button';
+import slider1 from './images/3_1.jpg';
+import slider2 from './images/4_1.jpg';
 
 const Slider = () => {
     return (
@@ -11,7 +13,7 @@ const Slider = () => {
     </div>
     <div className="carousel-inner">
       <div className="carousel-item active">
-        <img src={process.env.PUBLIC_URL + "images/3_1.jpg"} className="d-block slide" alt="..."/>
+        <img src={slider1} className="d-block slide" alt="..."/>
         <div className="carousel-caption First_slider d-none d-md-block">
           <h4>AJ Programming HUB</h4>
           <p>MERN,ML,Python,C++,C,Java</p>
@@ -27,7 +29,7 @@ const Slider = () => {
         </div>
       </div>
       <div className="carousel-item">
-        <img src={process.env.PUBLIC_URL + "images/4_1.jpg"} className="d-block slide" alt="..."/>
+        <img src={slider2} className="d-block slide" alt="..."/>
         <div className="carousel-caption d-none d-md-block">
         <a href="http://azeemaj101.herokuapp.com/partials/Azeem-CV.pdf" style={{textDecoration: "none"}}  rel="noopener noreferrer">
         <Button variant="contained" className="me-2" color="info">Resume</Button>
