@@ -17,7 +17,7 @@ const NavBar = () => {
           <NavLink exact className="nav-link" activeClassName="text-light" to="2020_Portfolio_Update_into_React/">Home</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink exact className="nav-link" activeClassName="text-light" to="/certificate">Certificate</NavLink>
+          <NavLink exact className="nav-link" activeClassName="text-light" to="/2020_Portfolio_Update_into_React/certificate">Certificate</NavLink>
         </li>
         <li className="nav-item dropdown">
           <NavLink exact className="nav-link dropdown-toggle" activeClassName="text-light" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" to="/d">
@@ -25,10 +25,10 @@ const NavBar = () => {
           </NavLink>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
             <li>
-          <NavLink exact className="dropdown-item dropdown_css" to="/web">Web Projects</NavLink>
+          <NavLink exact className="dropdown-item dropdown_css" to="/2020_Portfolio_Update_into_React/web">Web Projects</NavLink>
            </li>
             <li>
-          <NavLink exact className="dropdown-item dropdown_css" to="/programming">Programming Projects</NavLink>
+          <NavLink exact className="dropdown-item dropdown_css" to="/2020_Portfolio_Update_into_React/programming">Programming Projects</NavLink>
            </li>
             <li>
           <a className="dropdown-item dropdown_css" target="_blank" rel="noreferrer" href="https://azeemaj101.github.io/Calculator_Web_Application/">Calculator</a>
@@ -36,7 +36,7 @@ const NavBar = () => {
           </ul>
         </li>
         <li className="nav-item">
-          <NavLink exact className="nav-link" activeClassName="text-light" to="/contactus">Contact Us</NavLink>
+          <NavLink exact className="nav-link" activeClassName="text-light" to="/2020_Portfolio_Update_into_React/contactus">Contact Us</NavLink>
         </li>
     </ul>
     <a href="http://azeemaj101.herokuapp.com/" className="me-2 mb-1" style={{textDecoration:"none"}} target="_blank" rel="noopener noreferrer">
