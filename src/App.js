@@ -26,7 +26,7 @@ function App() {
     <ToastContainer />
     <Slider />
     <Switch>
-    <Route exact path="2020_Portfolio_Update_into_React/" component={Home} />
+    <Route exact path="/2020_Portfolio_Update_into_React/" component={Home} />
     <Route exact path="/certificate" component={Certificate} />
     <Route exact path="/contactus" component={Contactus} />
     <Route exact path="/web" component={WebCard} />
