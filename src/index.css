@@ -150,6 +150,9 @@ font-weight: bold;
   .proImg{
     height: 130px;
   }
+  .proImg1{
+    height: 150px;
+  }
   .card_css
   {
     width: 300px;
@@ -164,10 +167,16 @@ font-weight: bold;
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 350px) {
   .card_css
   {
     width: 250px;
     height: 270px;
+  }
+  .proImg{
+    height: 130px;
+  }
+  .proImg1{
+    height: 150px;
   }
 }
