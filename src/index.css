@@ -1,0 +1,173 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  /* font-family: 'Ubuntu', sans-serif; */
+  font-family: 'Koh Santepheap', cursive;
+
+}
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+nav{
+  background-color: black;
+  color: dimgray;
+  font-family: 'Koh Santepheap', cursive;
+  font-size: 15px;
+}
+
+.top_img
+{
+  width: 170px;
+  height: 40px;
+}
+
+.slide
+{
+  width: 100%;
+  height: 450px;
+}
+
+.First_slider h4
+{
+color: black;
+font-weight: bold;
+}
+.First_slider p
+{
+color: black;
+font-size: 16px;
+font-weight: bold;
+}
+
+.card_css
+{
+  width: 400px;
+  height: 370px;
+}
+
+.card_css:hover
+{
+  box-shadow: 5px 5px 25px blue;
+}
+
+.footer-img{
+  height: 200px;
+  width: 200px;
+}
+
+.footer_btn{
+  color: white;
+  margin-left: 5px;
+}
+.footer_btn:nth-child(1):hover{
+  color: #4267B2;
+}
+.footer_btn:nth-child(2):hover{
+  color: #171515;
+}
+.footer_btn:nth-child(3):hover{
+  color: #8a3ab9;
+}
+.footer_btn:nth-child(4):hover{
+  color: #0077b5;
+}
+.footer_btn:nth-child(5):hover{
+  color: #1DA1F2;
+}
+.footer_btn:nth-child(6):hover{
+  color: #3700ff;
+}
+.footer_btn:hover{
+  position: relative;
+  top:-3px;
+}
+
+.footer_content p
+{
+  margin-left: 10px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.line
+{
+  width:25rem;
+  border-radius:60px;
+  height:5px;
+  background-color: teal;
+}
+
+.footer_link
+{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.dropdown_css
+{
+  color: white;
+}
+.dropdown_css:hover
+{
+  color: rgb(0, 0, 0);
+}
+.proImg{
+  height: 280px;
+}
+
+.hel{
+  display: none;
+}
+
+@media screen and (max-width: 480px) {
+  .footer-img{
+    height: 120px;
+    width: 120px;
+  }
+  .footer_content p
+  {
+    margin-left: 15px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .proImg{
+    height: 130px;
+  }
+  .card_css
+  {
+    width: 300px;
+    height: 300px;
+  }
+  .line
+  {
+    width:15rem;
+    border-radius:60px;
+    height:5px;
+    background-color: teal;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .card_css
+  {
+    width: 250px;
+    height: 270px;
+  }
+}
