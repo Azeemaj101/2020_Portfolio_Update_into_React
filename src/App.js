@@ -1,6 +1,6 @@
 import './App.css';
 import React, {useEffect }  from 'react';
-import { Route, Switch} from 'react-router-dom'
+import { Route, Switch, Redirect} from 'react-router-dom'
 import NavBar from './NavBar';
 import Certificate from './Certificate';
 import Contactus from './Contactus';
@@ -38,6 +38,7 @@ function App() {
     <Route exact path="/2020_Portfolio_Update_into_React/web" component={WebCard} />
     <Route exact path="/2020_Portfolio_Update_into_React/programming" component={Programming} />
     <Route exact path="/2020_Portfolio_Update_into_React/programming2" component={Programming2} />
+    <Redirect to="/"/>
     </Switch>
     <Footer />
     </div>
