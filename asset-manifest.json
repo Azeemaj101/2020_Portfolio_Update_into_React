@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/2020_Portfolio_Update_into_React/static/css/main.4be6c2a5.chunk.css",
-    "main.js": "/2020_Portfolio_Update_into_React/static/js/main.14484c24.chunk.js",
-    "main.js.map": "/2020_Portfolio_Update_into_React/static/js/main.14484c24.chunk.js.map",
+    "main.css": "/2020_Portfolio_Update_into_React/static/css/main.684963e5.chunk.css",
+    "main.js": "/2020_Portfolio_Update_into_React/static/js/main.02ccfac5.chunk.js",
+    "main.js.map": "/2020_Portfolio_Update_into_React/static/js/main.02ccfac5.chunk.js.map",
     "runtime-main.js": "/2020_Portfolio_Update_into_React/static/js/runtime-main.a153e5c3.js",
     "runtime-main.js.map": "/2020_Portfolio_Update_into_React/static/js/runtime-main.a153e5c3.js.map",
     "static/css/2.d9edcba5.chunk.css": "/2020_Portfolio_Update_into_React/static/css/2.d9edcba5.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d6470019.chunk.js.map": "/2020_Portfolio_Update_into_React/static/js/3.d6470019.chunk.js.map",
     "index.html": "/2020_Portfolio_Update_into_React/index.html",
     "static/css/2.d9edcba5.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/2.d9edcba5.chunk.css.map",
-    "static/css/main.4be6c2a5.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/main.4be6c2a5.chunk.css.map",
+    "static/css/main.684963e5.chunk.css.map": "/2020_Portfolio_Update_into_React/static/css/main.684963e5.chunk.css.map",
     "static/js/2.822b0bfc.chunk.js.LICENSE.txt": "/2020_Portfolio_Update_into_React/static/js/2.822b0bfc.chunk.js.LICENSE.txt",
     "static/media/1_1.0a06261c.jpg": "/2020_Portfolio_Update_into_React/static/media/1_1.0a06261c.jpg",
     "static/media/2_1.4389e005.jpeg": "/2020_Portfolio_Update_into_React/static/media/2_1.4389e005.jpeg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.a153e5c3.js",
     "static/css/2.d9edcba5.chunk.css",
     "static/js/2.822b0bfc.chunk.js",
-    "static/css/main.4be6c2a5.chunk.css",
-    "static/js/main.14484c24.chunk.js"
+    "static/css/main.684963e5.chunk.css",
+    "static/js/main.02ccfac5.chunk.js"
   ]
 }
