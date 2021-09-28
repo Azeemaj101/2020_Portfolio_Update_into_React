@@ -136,6 +136,10 @@ font-weight: bold;
   display: none;
 }
 
+.proImg1{
+  height: 280px;
+}
+
 @media screen and (max-width: 480px) {
   .footer-img{
     height: 120px;
